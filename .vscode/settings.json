@@ -1,0 +1,6 @@
+{
+    "workbench.editor.wrapTabs": false,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
